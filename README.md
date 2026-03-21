@@ -3,7 +3,7 @@
 <i>
   Official code repository for the manuscript 
   <b>"FireQuan: A Hardware-Aware Hybrid Architecture with CNOT-Free Encoding for Efficient Image Classification"</b>, submitted to 
-  <a href="https://www.journals.elsevier.com/neural-networks">Neural Networks</a>.
+  <a href="https://advanced.onlinelibrary.wiley.com/journal/25119044">Advanced Quantum Technologies</a>.
 </i>
 
 > Please press ⭐ button and/or cite papers if you feel helpful.
